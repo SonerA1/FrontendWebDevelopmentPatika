@@ -30,4 +30,6 @@ Pull requestler kabul edilir. BÜyük değişiklikler için lütfen önce neyi d
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
 
+<a href="https://app.patika.dev/soneraa"patika.dev profilim>
+
 
