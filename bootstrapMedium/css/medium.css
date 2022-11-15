@@ -1,0 +1,20 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+
+.bg-yellow {
+    background-color: orange;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid #222222;
+}
+
+.aside-buttons>li {
+    margin-bottom: 10px;
+}
+
+.border-top-dark {
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
